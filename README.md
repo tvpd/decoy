@@ -1,12 +1,12 @@
 # decoy
+<br /><br />
+Project created by:<br /><br />
 
-Project created by:
+Tejas Kulkarni<br />
+Varad Waghmare<br />
+Dilip Chaudhary<br />
+Parth Kulkarni<br /><br />
 
-Tejas Kulkarni\n
-Varad Waghmare\n
-Dilip Chaudhary\n
-Parth Kulkarni\n\n
-
-Project name: Security Implementation in Cloud using User behaviour profiling and Decoy Technology.\n\n
+Project name: Security Implementation in Cloud using User behaviour profiling and Decoy Technology.<br /><br />
 
 Well done.
